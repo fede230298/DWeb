@@ -1,0 +1,121 @@
+.header__background{
+    background-color: white;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 15%;
+    min-width: 225px;
+    height: 100vh;
+    padding-top: 30px;
+    justify-content: space-between;
+}
+
+.derecha{
+    justify-content: right;
+}
+
+.float__right{
+    float: right;
+}
+
+img.media{
+    width: 15px;
+    height: 15px;
+    left: 0px;
+}
+
+.footer__background{
+    background-color: white;
+    bottom: 0px;
+    left: 0px;
+    bottom: 0px;
+    width: 100%;
+    height: 8%;
+}
+
+.frontImage{
+    width: 100%;
+    height: 300px;
+}
+
+.body__background{
+    background-color: darkblue;
+    padding-left: 15%;
+    mi
+}
+
+header h1{
+    color: orange;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 30px;
+}
+
+body h1 {
+    color: orange;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 30px;
+}
+
+
+.listaMenu{
+    color: orange;
+    list-style: none;
+    margin-inline: 10px;
+    padding-left: 10px;
+    line-height: 30px;
+    text-align: left;
+}
+
+a{
+    color: orange;
+    justify-content: space-between;
+}
+
+
+section {
+    padding: 10px 30px 20px 30px;
+    }
+
+img.footer {
+    width:50px;
+    height:50px;
+}
+
+img.redimension {
+    width:150px;
+    height:150px;
+}
+
+
+.letrasBlancas{
+    font-family: sans-serif;
+    color: white;
+    text-align: center;
+    ;
+}
+
+h2{
+    color: orange;
+}
+
+table{
+    width: 100%;
+    border: 2px solid orange;
+    padding: 10px;
+    border-spacing: 10px;
+}
+
+th {
+    width: 25%;
+    text-align: center;
+    vertical-align: top;
+    border: 2px solid lightskyblue;
+}
+
+td {
+    width: 25%;
+    text-align: justify;
+    vertical-align: top;
+    border:2px solid lightskyblue;
+}
+
